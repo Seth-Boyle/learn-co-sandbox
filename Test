@@ -3,4 +3,6 @@ word = "bird"
 
 console.log(word)
 
-word = "dog
+word = "dog"
+
+console.log(word)
